@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "nonk43798@gmail.com",
-    "password": "61560050885709",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -18,11 +18,10 @@
   },
   "adminBot": [
     "61560050885709"
-    "61558854156141"
   ],
   "whiteListMode": {
-    "enable": false,
-    "whiteListIds": [],
+    "enable": true,
+    "whiteListIds": ["61560050885709"],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "[?]☞Lord𖣘King☜ ༺ ༒",
